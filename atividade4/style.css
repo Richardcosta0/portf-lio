@@ -1,0 +1,8 @@
+body {
+  background-image: url("jesus.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  margin: 0%;
+  text-align: center;
+}
