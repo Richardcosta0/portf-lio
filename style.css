@@ -1,6 +1,6 @@
 
 a p{
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(2, 2, 2);
     width: 20%;
     padding: 15px 0;
     text-align: center;
@@ -25,7 +25,7 @@ h1 {
 
 
 body {
-  background-image: url("Amém.gif");
+  background-image: url("file:///C:/Users/.21/Downloads/b5644fa54de34837af7ef9cde66d5a6e_upscaled.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;

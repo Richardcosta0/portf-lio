@@ -1,8 +1,12 @@
 body {
-  background-image: url("jesus.jpg");
+  background-image: url("file:///C:/Users/.21/Downloads/8e3058bfba9923c5d1e1912b101cf9ed_upscaled.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
   margin: 0%;
   text-align: center;
+}
+
+h1 {
+    color:  white;
 }
