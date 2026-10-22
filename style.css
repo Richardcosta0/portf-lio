@@ -25,10 +25,22 @@ h1 {
 
 
 body {
-  background-image: url("file:///C:/Users/.21/Downloads/b5644fa54de34837af7ef9cde66d5a6e_upscaled.jpg");
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-  margin: 0%;
-  text-align: center;
+    background-image: url("jesus.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    margin: 0;
+    min-height: 100vh;
+    text-align: center;
+    font-family: Georgia, serif;
+    color: white;
+}
+
+img {
+    display: block;
+    max-width: 90%;
+    height: auto;
+    margin: 500px auto;
 }
