@@ -7,7 +7,7 @@ a p{
     color: rgb(241, 239, 239);
     font-weight: bold;
     font-size: bold;
-    border-radius: 5px;
+    border-radius: 50px;
     transition: 1s all;
     cursor: pointer;
     margin: 15px auto;
