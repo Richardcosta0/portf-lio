@@ -1,3 +1,0 @@
-    function nao() {
-        alert ("nãoooooo.......")
-    }
